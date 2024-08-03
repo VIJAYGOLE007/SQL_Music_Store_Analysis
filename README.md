@@ -2,6 +2,7 @@
 Here's a concise analysis of the SQL project:
 
 Focus: Music store data analysis
+
 Complexity: Two sets of questions - Easy and Moderate
 Key areas:
 
